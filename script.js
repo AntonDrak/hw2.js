@@ -1,15 +1,15 @@
 // задание 1-2
-//let name = prompt("Ведите ваше имя");
-//let age = prompt("Ввдеите ваш возраст");
-//let city = prompt("введите ваш город");
-//let phone = prompt("введите ваш телефон")
-//let email = prompt("введите вашу почту")
-//let company = prompt("Введите вашу контору")
+let name = prompt("Ведите ваше имя");
+let age = prompt("Ввдеите ваш возраст");
+let city = prompt("введите ваш город");
+let phone = prompt("введите ваш телефон")
+let email = prompt("введите вашу почту")
+let company = prompt("Введите вашу контору")
 
-//alert(`Меня зовут ${name}. Мне ${age} лет Я проживаю вгороде ${city} и работаю в компании ${company} Мои контактные данные:${name}, ${name}`);
+alert(`Меня зовут ${name}. Мне ${age} лет Я проживаю вгороде ${city} и работаю в компании ${company} Мои контактные данные:${name}, ${name}`);
 
-// let year = (2023-age)
-//alert(`${name} родился в ${year}`);
+ let year = (2023-age)
+alert(`${name} родился в ${year}`);
 
 // Задание 3
 const str = "123321";
